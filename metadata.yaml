@@ -1,5 +1,8 @@
 _repo: An-English-Garner-Ingatherings-from-Our-History-and-Literature-8-of-8_52620
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52620-h/images/cover.jpg
 creator:
   editor:
     agent_name: Arber, Edward
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3122
     wikipedia: http://en.wikipedia.org/wiki/Edward_Arber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52620#An-English-Garner-Ingatherings-from-Our-History-and-Literature-8-of-8
 gutenberg_issued: '2016-07-22'
 gutenberg_type: Text
 identifiers:
